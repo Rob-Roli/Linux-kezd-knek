@@ -1,0 +1,1 @@
+Ez a repository tartalmaz PDF-eket, amik segítenek kezdő linux felhasználókanak, akik ismrkednek a rendszerrel. Emellet tartalmaz egy egtra PDf-et, ami tartalmaz több szolgáltatás kipróblását virtuális gépen.
